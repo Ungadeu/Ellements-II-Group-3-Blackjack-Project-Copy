@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Group Blackjack.iml" filepath="$PROJECT_DIR$/Group Blackjack.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Ellements-II-Group-3-Blackjack-Project.iml" filepath="$PROJECT_DIR$/Ellements-II-Group-3-Blackjack-Project.iml" />
+>>>>>>> origin/main
     </modules>
   </component>
 </project>
