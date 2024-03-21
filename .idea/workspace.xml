@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8837530c-20af-4d7d-a64d-f92243bab1a1" name="Changes" comment="Its work time">
-      <change beforePath="$PROJECT_DIR$/project.greenfoot" beforeDir="false" afterPath="$PROJECT_DIR$/project.greenfoot" afterDir="false" />
-    </list>
+    <list default="true" id="8837530c-20af-4d7d-a64d-f92243bab1a1" name="Changes" comment="Its working" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +56,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711036022998</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Its working">
+      <created>1711036391844</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711036391844</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Its working">
+      <created>1711036741316</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711036741316</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +100,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Its gaming time" />
     <MESSAGE value="Its work time" />
-    <option name="LAST_COMMIT_MESSAGE" value="Its work time" />
+    <MESSAGE value="Its working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Its working" />
   </component>
 </project>
