@@ -1,5 +1,7 @@
 *.class
 *.ctxt
 README.TXT
+*.iml
+/.idea/
 
 
